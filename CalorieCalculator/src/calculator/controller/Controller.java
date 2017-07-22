@@ -759,7 +759,7 @@ public class Controller {
 
 		catch (FileNotFoundException e) {
 
-			theView.displayErrorMessageDialog("The Excel file must to be closed first");
+			theView.displayErrorMessageDialog("The Excel file must be closed first");
 			return;
 		}
 	}
