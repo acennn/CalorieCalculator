@@ -11,5 +11,14 @@
 	<classpathentry kind="lib" path="lib/poi-3.16.jar"/>
 	<classpathentry kind="lib" path="lib/poi-ooxml-3.16.jar"/>
 	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="var" path="org_apache_poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="var" path="org_apache_poi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="var" path="org_apache_poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="var" path="org_apache_poi/curvesapi-1.04.jar"/>
+	<classpathentry kind="var" path="org_apache_poi/junit-4.12.jar"/>
+	<classpathentry kind="var" path="org_apache_poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="var" path="org_apache_poi/poi-3.16.jar"/>
+	<classpathentry kind="var" path="org_apache_poi/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="var" path="org_apache_poi/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
